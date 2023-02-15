@@ -1,0 +1,38 @@
+body{
+    background-color: rgb(15, 221, 235);
+    margin:0;
+    text-align: center;
+    position: relative;
+    font-family:'Times New Roman', Times, serif;
+    font-size:small;
+}
+h1,h2,h3{
+    color:cornflowerblue;
+    
+    font-family:'Times New Roman', Times, serif;
+    font-size: xx-large ;
+}
+.top-cloud{
+    position: absolute;
+    top: 100px;
+    right: 20%;
+    
+}
+.bottom-cloud{
+    position: absolute;
+    left: 40%;
+    
+}
+.mountain {
+    display: block;
+  margin: 0 auto;
+  text-align: center;
+}
+.pro{
+    color: darkmagenta;
+}
+.table{
+    font-size: xx-large;
+    text-align: center;
+    margin: 0 auto;
+}
